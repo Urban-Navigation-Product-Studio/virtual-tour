@@ -3,7 +3,7 @@
 ## Requirements
 
 Before you begin, make sure you have the following installed:
-- **Unity Hub**: You can download it from [Unity's official website](https://unity.com/download).
+- **Unity Hub**: You can download it from [Unity](https://unity.com/download).
 - **Unity Editor**: This project was built using **Unity version 2022.3.38f1**. Download this version through Unity Hub to ensure compatibility.
 
 
@@ -26,5 +26,15 @@ Before you begin, make sure you have the following installed:
 - **Packages**: manages the packages and dependencies for the project
 
 
-## Useful Links
-[Unity overview](https://docs.unity3d.com/Manual/UnityOverview.html)
+## Plugin & Packages
+
+- [Steam Audio](https://valvesoftware.github.io/steam-audio/)(added)
+- [LLM for Unity](https://assetstore.unity.com/packages/tools/ai-ml-integration/llm-for-unity-273604)
+  
+
+## Useful Links from Scratch
+
+- [Unity Learn](https://learn.unity.com/)
+  - [Scripting](https://learn.unity.com/project/beginner-gameplay-scripting?courseId=5c61706dedbc2a324a9b022d)
+  - [Project for Tutorial](https://learn.unity.com/project/roll-a-ball)
+- [Unity Asset Store](https://assetstore.unity.com/)
