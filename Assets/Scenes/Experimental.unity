@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 233430512}
   - component: {fileID: 233430511}
   - component: {fileID: 233430510}
+  - component: {fileID: 233430514}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -227,6 +228,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1337433929}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &233430514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 233430509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e829c87dc2a2ed2419c5f67848317fe4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 11400000, guid: a086f686223eed942816c70be67841b0, type: 2}
+  exportAllChildren: 0
+  terrainSimplificationLevel: 0
 --- !u!1 &394442194
 GameObject:
   m_ObjectHideFlags: 0
@@ -333,6 +349,7 @@ GameObject:
   - component: {fileID: 620581056}
   - component: {fileID: 620581055}
   - component: {fileID: 620581054}
+  - component: {fileID: 620581058}
   m_Layer: 0
   m_Name: Cube (1)
   m_TagString: Untagged
@@ -426,6 +443,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1337433929}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &620581058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 620581053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e829c87dc2a2ed2419c5f67848317fe4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 11400000, guid: a086f686223eed942816c70be67841b0, type: 2}
+  exportAllChildren: 0
+  terrainSimplificationLevel: 0
 --- !u!1 &1235738859
 GameObject:
   m_ObjectHideFlags: 0
@@ -687,6 +719,7 @@ GameObject:
   - component: {fileID: 1533563914}
   - component: {fileID: 1533563913}
   - component: {fileID: 1533563912}
+  - component: {fileID: 1533563916}
   m_Layer: 0
   m_Name: Plane
   m_TagString: Untagged
@@ -781,6 +814,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1337433929}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1533563916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533563911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e829c87dc2a2ed2419c5f67848317fe4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 11400000, guid: a086f686223eed942816c70be67841b0, type: 2}
+  exportAllChildren: 0
+  terrainSimplificationLevel: 0
 --- !u!1 &1664521034
 GameObject:
   m_ObjectHideFlags: 0
